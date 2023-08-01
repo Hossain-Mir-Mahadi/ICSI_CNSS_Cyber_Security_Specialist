@@ -1,1 +1,1 @@
-# ICSI_CNSS_Cyber_Security_Specialist
+This readme provides information about the ICSI CNSS (Certified Network Systems Security) Cyber Security Specialist certification. This certification is designed to equip professionals with specialized skills and knowledge in the field of cyber security.
